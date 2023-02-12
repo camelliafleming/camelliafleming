@@ -7,9 +7,10 @@
 - <b>Java</b>
   - [Picking a Card using Enumeration] (https://github.com/camelliafleming/java_enumeration)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]<!--(https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
+  - [Searching Text Files and Saving Output to Text File] (https://github.com/camelliafleming/python_text_files)
+  - [Manipulating Data in Lists] (https://github.com/camelliafleming/python_lists)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)]<!--(https://github.com/joshmadakor1/EncrypterPOC)-->
+  - [ ] (https://github.com/camelliafleming/)
 - <b>SAS</b>
   - [  ]
 - <b>Power BI</b>
