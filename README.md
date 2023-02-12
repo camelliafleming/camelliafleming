@@ -2,8 +2,8 @@
 
 <h2>👩🏾‍💻 Programming/Scripting Samples:</h2> 
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Practicing DS & Algos in Python]<!--(https://github.com/joshmadakor1/Algorithms-Practice)-->
+<!--- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Practicing DS & Algos in Python] (https://github.com/joshmadakor1/Algorithms-Practice)-->
 - <b>Java</b>
   - [Picking a Card using Enumeration] (https://github.com/camelliafleming/java_enumeration)
 - <b>Python</b>
@@ -14,8 +14,8 @@
   - [Connect Four App] (https://github.com/camelliafleming/C_Sharp_Connect_Four)
 - <b>SAS</b>
   - [SAS Functions to Work with Data] (https://github.com/camelliafleming/SAS_Functions)
-- <b>Power BI</b>
-  - [__]
+<!--- <b>Power BI</b>
+  - [__] -->
 
 
 <h2>📄 Certifications:</h2>
