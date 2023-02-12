@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Practicing DS & Algos in Python]<!--(https://github.com/joshmadakor1/Algorithms-Practice)-->
 - <b>Java</b>
-  - [__]
+  - [Picking a Card using Enumeration] (https://github.com/camelliafleming/java_enumeration)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]<!--(https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
 - <b>C# (.NET Desktop Applications)</b>
