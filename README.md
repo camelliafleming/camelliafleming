@@ -3,7 +3,7 @@
 <h2>👩🏾‍💻 Programming/Scripting Samples:</h2> 
 
 <!--- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Practicing DS & Algos in Python] (https://github.com/joshmadakor1/Algorithms-Practice)-->
+  - [Practicing DS & Algos in Python] (https://github.com/joshmadakor1/Algorithms-Practice) -->
 - <b>Java</b>
   - [Picking a Card using Enumeration] (https://github.com/camelliafleming/java_enumeration)
 - <b>Python</b>
