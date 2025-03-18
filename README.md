@@ -1,4 +1,4 @@
-<h1>Hi, I'm Camellia, <a href="https://github.com/camelliafleming">Applications Analyst</a>!</h1>
+<h1>Hi, I'm Camellia Fleming, <a href="https://github.com/camelliafleming">Applications Analyst</a>!</h1>
 
 <h2>👩🏾‍💻 Programming/Scripting Samples:</h2> 
 
